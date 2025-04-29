@@ -17,5 +17,10 @@ PrivatePost is a secure backend API built with **Node.js**, **Express**, and **M
 
 ---
 
-## 📁 Project Structure
+✅ Requirements
+
+MongoDB
+express
+jason-webtoken
+
 
